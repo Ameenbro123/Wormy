@@ -44,5 +44,3 @@ IMPORTANT: I am not to be held liable for any actions you use this worm for, thi
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
